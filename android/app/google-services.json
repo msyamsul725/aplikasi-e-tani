@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "267246970556",
+    "project_id": "taniv4-bf506",
+    "storage_bucket": "taniv4-bf506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267246970556:android:e11e32324fe6b492cf12b9",
+        "android_client_info": {
+          "package_name": "com.example.taniv4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267246970556-6tdfka1kdt048234oenbb3sac0s3tfnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taniv4",
+            "certificate_hash": "980e67b1b2f29fc46552b5c5448b18c0a01e9168"
+          }
+        },
+        {
+          "client_id": "267246970556-h62ersibusjbcb4nkg97m7loim939h49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw9AvRNYPfEGxX7FhH4lL6Fm9ML2yytUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267246970556-h62ersibusjbcb4nkg97m7loim939h49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

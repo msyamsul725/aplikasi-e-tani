@@ -1,0 +1,9 @@
+{
+    "state_management": "getx", 
+    "modules": [
+        "homeMarket",
+        "mainpage"
+
+      
+    ]
+}
